@@ -14,7 +14,6 @@ body {
 }
 
 #container {
-    border: 1px solid red;
     background: #ede9cc;
 }
 
@@ -26,7 +25,7 @@ body {
 }
 
 #area-logo {
-    background: red;
+    background: url(../images/topo-imagem-principal.png) no-repeat;
     width: 100%;
     height: 250px;
     position: absolute;
@@ -35,8 +34,8 @@ body {
 }
 
 #area-menu {
-    background: blue;
-    width: 450px;
+    background: url(../images/topo-imagem-lateral.png) no-repeat;
+    width: 490px;
     height: 250px;
     position: absolute; 
     top: 0;
