@@ -5,7 +5,7 @@
 
  <h1 align="left"> ⬇️ Sobre </h1>
 
- **Escreva aqui sobre o projeto...**
+ Webpage básica sobre um chalé hotel
 
 <div align="center">
  
@@ -16,13 +16,13 @@
 
  <h1> ⬇️ Deploy </h1>
 
- link do site aqui...
+ https://chale-hotel-rho.vercel.app/
 
   # 🙅‍♂️ Autor
 | [<img src="https://avatars.githubusercontent.com/u/143373573?v=4" width="100" height="100"><br><sub>Diogo Ataide</sub>](https://github.com/diatsilva007)
 | :---: |
 
- <p><img src="http://img.shields.io/static/v1?label=STATUS&message=70%&color=GREEN&style=for-the-badge"/></p>
+ <p><img src="http://img.shields.io/static/v1?label=STATUS&message=100%&color=GREEN&style=for-the-badge"/></p>
 
  </div>
           
